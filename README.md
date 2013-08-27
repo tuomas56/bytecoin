@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ByteCoin (BYTC)
 
 Blah, blah, blah.
